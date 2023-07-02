@@ -1,0 +1,12 @@
+We will be using 
+HTML
+CSS
+JAVASCRIPT
+FIREBASE 
+In our project
+
+HTML CSS JS we are already working with
+Firebase is a database that gives updates in real time
+and it is very easy to use for beginniers. 
+It is a google database
+--
