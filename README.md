@@ -6,4 +6,4 @@ A cart tracker, that is useful for you to store items when you want to go for sh
 </p>
 
 ## About
-A cart tracker is an app that is developed using CSS([CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [Javascript](https://devdocs.io/javascript/),[GoogleFirebse](https://firebase.google.com/))
+A cart tracker is an app that is developed using CSS,Javascript,HTML,Firebase([CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [Javascript](https://devdocs.io/javascript/),[GoogleFirebse](https://firebase.google.com/))
